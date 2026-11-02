@@ -11,3 +11,4 @@ and GitHub collaboration.
 ## Author
 
 Priya Aswal
+This repository demonstrates GitHub collaboration and remote synchronization.
